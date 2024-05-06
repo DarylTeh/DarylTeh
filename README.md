@@ -7,7 +7,7 @@
 
 
 > ### ⚙️ Languages: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F4007A&duration=700&lines=Angular;Python;html-css;Java;React;C++;C#;SQL;noSQL;Bussin-X;Basic;TinyBasic;VisualBasic;bash;LOLCODE;Glass;Brainfuck;Chicken;~English;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F4007A&duration=700&lines=Angular;Python;html-css;Java;React;C++;C-sharp;SQL;noSQL;Bussin-X;Basic;TinyBasic;VisualBasic;bash;LOLCODE;Glass;Brainfuck;Chicken;~English;)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
