@@ -7,7 +7,7 @@
 
 
 > ### ⚙️ Languages: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=700&lines=Angular,;Python,;html-css,;Java,;React,;C++,;C#,;SQL,;noSQL,;Bussin-X,;Basic,;TinyBasic,;VisualBasic,;bash,;LOLCODE,;Glass,;Brainfuck,;Chicken,;~English,;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F4007A&duration=700&lines=Angular,;Python,;html-css,;Java,;React,;C++,;C#,;SQL,;noSQL,;Bussin-X,;Basic,;TinyBasic,;VisualBasic,;bash,;LOLCODE,;Glass,;Brainfuck,;Chicken,;~English,;)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
@@ -18,7 +18,7 @@
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### 👋 Companies I'd work for: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=Amazon;Microsoft;Nox;VSC;Logitech;Apple;Spotify;Engine;Bluestack;Intel;Google;NCS;Telegram;TikTok;Nvidia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=100&lines=Amazon;Microsoft;Apple;Intel;Google;NCS;TikTok;Nvidia;AMD)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
