@@ -21,16 +21,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=Amazon;Microsoft;Nox;VSC;Logitech;Apple;Spotify;Engine;Bluestack;Intel;Google;NCS;Telegram;TikTok;Nvidia)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
-
-> ### 🆕 Updates 
- 
-```PY 
- [+] Last update: 24/06/2023
- [+] author: natrix
- [+] owner: Daryl 
- ```
- 
- ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
  <br><br>
 <p>👀 &nbsp;Visitors</p>
