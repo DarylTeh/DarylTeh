@@ -7,7 +7,7 @@
 
 
 > ### ⚙️ Mastered languages: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;html-css,;java,;react.js,;f#,;vue.js,;c++,;c#,;sql,;bussin-x)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
@@ -17,8 +17,8 @@
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-> ### 👋 Interests: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=Amazon;Microsoft;Nox;VSC;Logitech;Apple;Spotify;Engine;Bluestack;Intel;Google;NCS;Telegram;TikTok;Nvidia;Java;Python;Fullstack-Development)](https://git.io/typing-svg)
+> ### 👋 Companies I'd work for: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=Amazon;Microsoft;Nox;VSC;Logitech;Apple;Spotify;Engine;Bluestack;Intel;Google;NCS;Telegram;TikTok;Nvidia)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
