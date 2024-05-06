@@ -18,7 +18,7 @@
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### 👋 Companies I'd work for: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=100&lines=Amazon;Microsoft;Apple;Intel;Google;NCS;TikTok;Nvidia;AMD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=700&lines=Amazon;Microsoft;Apple;Intel;Google;NCS;TikTok;Nvidia;AMD)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
